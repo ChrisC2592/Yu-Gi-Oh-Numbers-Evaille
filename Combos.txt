@@ -1,0 +1,4461 @@
+Target: Number 0 monster Options: 0Target: Number 1 monster Options: 0Target: Number 2 monster Options: 0Target: Number 3 monster Options: 0Target: Number 4 monster Options: 0Target: Number 5 monster Options: 1  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 6 monster Options: 1  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 7 monster Options: 1  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 8 monster Options: 2  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 4: Stealth Kragen, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 9 monster Options: 1  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 10 monster Options: 1  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 11 monster Options: 2  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+Target: Number 12 monster Options: 2  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+Target: Number 13 monster Options: 2  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 14 monster Options: 3  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 7: Lucky Straight, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 15 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 16 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 17 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 10: Illumiknight, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 18 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 9: Dyson Sphere, Rank: 9
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 19 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 20 monster Options: 5  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 9: Dyson Sphere, Rank: 9
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 5:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 21 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 11: Big Eye, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 10: Illumiknight, Rank: 4
+Target: Number 22 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 9: Dyson Sphere, Rank: 9
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 23 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 10: Illumiknight, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 24 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 25 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 26 monster Options: 4  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 16: Shock Master, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 27 monster Options: 5  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 5:
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 28 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 29 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 16: Shock Master, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 30 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 6:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 31 monster Options: 5  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 32 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 33 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 34 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 25: Force Focus, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 35 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 36 monster Options: 6  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 37 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 38 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 39 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 40 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 41 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 42 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 32: Shark Drake, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 43 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 16: Shock Master, Rank: 4
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 44 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 16: Shock Master, Rank: 4
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 45 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 46 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 32: Shark Drake, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 7:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 47 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 48 monster Options: 7  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 49 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 50 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 19: Freezadon, Rank: 5
+  Option 8:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 51 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 52 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 16: Shock Master, Rank: 4
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 53 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 54 monster Options: 9  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 46: Dragluon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 19: Freezadon, Rank: 5
+  Option 8:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 55 monster Options: 9  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 46: Dragluon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 56 monster Options: 8  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 46: Dragluon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 20: Giga-Brilliant, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 57 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 46: Dragluon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 58 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 46: Dragluon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 59 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 25: Force Focus, Rank: 6
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 8:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 9:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 60 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+  Option 7:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number S0: Utopic ZEXAL, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 61 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 25: Force Focus, Rank: 6
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 62 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 52: Diamond Crab King, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 63 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 9:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number 22: Zombiestein, Rank: 8
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 64 monster Options: 9  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 65 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 5:
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 66 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 67 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 46: Dragluon, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 68 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 52: Diamond Crab King, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 69 monster Options: 10  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 61: Volcasaurus, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 46: Dragluon, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C43: High Manipulator of Chaos, Rank: 3
+Target: Number 70 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 71 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 5:
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 25: Force Focus, Rank: 6
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 44: Sky Pegasus, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 72 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 64: Ronin Raccoon Sandayu, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 73 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 60: Dugares the Timeless, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 5:
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 43: Manipulator of Souls, Rank: 2
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 74 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 75 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 67: Pair-a-Dice Smasher, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 5:
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 76 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 32: Shark Drake, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 77 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number C69: Heraldry Crest of Horror, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 64: Ronin Raccoon Sandayu, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 78 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 69: Heraldry Crest, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 61: Volcasaurus, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 10:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 49: Fortune Tune, Rank: 3
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 79 monster Options: 11  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 70: Malevolent Sin, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 67: Pair-a-Dice Smasher, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 61: Volcasaurus, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 55: Gogogo Goliath, Rank: 4
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 80 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 72: Shogi Rook, Rank: 6
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 66: Master Key Beetle, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 25: Force Focus, Rank: 6
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 43: Manipulator of Souls, Rank: 2
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 81 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 73: Abyss Splash, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 6:
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+  Option 7:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 52: Diamond Crab King, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 82 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 74: Master of Blades, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 69: Heraldry Crest, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 64: Ronin Raccoon Sandayu, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 49: Fortune Tune, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 83 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 74: Master of Blades, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 52: Diamond Crab King, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 84 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 61: Volcasaurus, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 13:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 85 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number C40: Gimmick Puppet of Dark Strings, Rank: 9
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 53: Heart-eartH, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 12:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 52: Diamond Crab King, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 86 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 74: Master of Blades, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number C40: Gimmick Puppet of Dark Strings, Rank: 9
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 11:
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 87 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C69: Heraldry Crest of Horror, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 64: Ronin Raccoon Sandayu, Rank: 2
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 12:
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 49: Fortune Tune, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 88 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number C80: Requiem in Berserk, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 75: Bamboozling Gossip Shadow, Rank: 3
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 69: Heraldry Crest, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 50: Blackship of Corn, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 49: Fortune Tune, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 89 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 46: Dragluon, Rank: 8
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+  Option 9:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+Target: Number 90 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 73: Abyss Splash, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 67: Pair-a-Dice Smasher, Rank: 5
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 52: Diamond Crab King, Rank: 4
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 55: Gogogo Goliath, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 91 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 82: Heartlandraco, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 75: Bamboozling Gossip Shadow, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 54: Lion Heart, Rank: 1
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 53: Heart-eartH, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 12:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 92 monster Options: 12  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 79: Battlin' Boxer Nova Kaiser, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 73: Abyss Splash, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C69: Heraldry Crest of Horror, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 12:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 93 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 75: Bamboozling Gossip Shadow, Rank: 3
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 69: Heraldry Crest, Rank: 4
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 56: Gold Rat, Rank: 1
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 39: Utopia Roots, Rank: 1
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 32: Shark Drake, Rank: 4
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 53: Heart-eartH, Rank: 5
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 13:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 94 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 85: Crazy Box, Rank: 4
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C32: Shark Drake Veiss, Rank: 4
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 54: Lion Heart, Rank: 1
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 95 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 87: Queen of the Night, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 82: Heartlandraco, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 72: Shogi Rook, Rank: 6
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 32: Shark Drake, Rank: 4
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 55: Gogogo Goliath, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 96 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 88: Gimmick Puppet of Leo, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 82: Heartlandraco, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 75: Bamboozling Gossip Shadow, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 60: Dugares the Timeless, Rank: 4
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 51: Finisher the Strong Arm, Rank: 3
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+  Option 8:
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 13:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 56: Gold Rat, Rank: 1
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 97 monster Options: 15  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 89: Diablosis the Mind Hacker, Rank: 7
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 39: Utopia Beyond, Rank: 6
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 12:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 13:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number 34: Terror-Byte, Rank: 3
+  Option 14:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 58: Burner Visor, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 15:
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number 54: Lion Heart, Rank: 1
+    Name: Number S0: Utopic ZEXAL, Rank: 0
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 98 monster Options: 14  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 90: Galaxy-Eyes Photon Lord, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 85: Crazy Box, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number C80: Requiem in Berserk, Rank: 5
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 75: Bamboozling Gossip Shadow, Rank: 3
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 52: Diamond Crab King, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 39: Utopia, Rank: 4
+  Option 13:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 14:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 99 monster Options: 15  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 90: Galaxy-Eyes Photon Lord, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 87: Queen of the Night, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 76: Harmonizer Gradielle, Rank: 7
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 59: Crooked Cook, Rank: 4
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 11:
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 39: Utopia Roots, Rank: 1
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+  Option 13:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 14:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C32: Shark Drake Veiss, Rank: 4
+  Option 15:
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number 55: Gogogo Goliath, Rank: 4
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+Target: Number 100 monster Options: 14  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 92: Heart-eartH Dragon, Rank: 9
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 87: Queen of the Night, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 54: Lion Heart, Rank: 1
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 39: Utopia Roots, Rank: 1
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 52: Diamond Crab King, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 14:
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 101 monster Options: 14  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 93: Utopia Kaiser, Rank: 12
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 88: Gimmick Puppet of Leo, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 82: Heartlandraco, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 67: Pair-a-Dice Smasher, Rank: 5
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 56: Gold Rat, Rank: 1
+  Option 7:
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 8:
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number C40: Gimmick Puppet of Dark Strings, Rank: 9
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 28: Titanic Moth, Rank: 7
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+  Option 13:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 55: Gogogo Goliath, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 14:
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number 63: Shamoji Soldier, Rank: 1
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 102 monster Options: 13  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 94: Crystalzero, Rank: 5
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 89: Diablosis the Mind Hacker, Rank: 7
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 77: The Seven Sins, Rank: 12
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 56: Gold Rat, Rank: 1
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 46: Dragluon, Rank: 8
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 42: Galaxy Tomahawk, Rank: 7
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 58: Burner Visor, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 103 monster Options: 14  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 95: Galaxy-Eyes Dark Matter Dragon, Rank: 9
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 90: Galaxy-Eyes Photon Lord, Rank: 8
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number C80: Requiem in Berserk, Rank: 5
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 47: Nightmare Shark, Rank: 3
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 29: Mannequin Cat, Rank: 2
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 13:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C32: Shark Drake Veiss, Rank: 4
+  Option 14:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+Target: Number 104 monster Options: 15  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 96: Dark Mist, Rank: 2
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 91: Thunder Spark Dragon, Rank: 4
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 85: Crazy Box, Rank: 4
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 65: Djinn Buster, Rank: 2
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 57: Tri-Head Dust Dragon, Rank: 4
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 54: Lion Heart, Rank: 1
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 13:
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C32: Shark Drake Veiss, Rank: 4
+  Option 14:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 15:
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number 56: Gold Rat, Rank: 1
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 105 monster Options: 15  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 97: Draglubion, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 92: Heart-eartH Dragon, Rank: 9
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 87: Queen of the Night, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 81: Superdreadnought Rail Cannon Super Dora, Rank: 10
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 63: Shamoji Soldier, Rank: 1
+  Option 6:
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 62: Galaxy-Eyes Prime Photon Dragon, Rank: 8
+  Option 7:
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 54: Lion Heart, Rank: 1
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 43: Manipulator of Souls, Rank: 2
+  Option 9:
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 39: Utopia, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 39: Utopia Double, Rank: 4
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 13:
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 39: Utopia Beyond, Rank: 6
+  Option 14:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 64: Ronin Raccoon Sandayu, Rank: 2
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 15:
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number 68: Sanaphond the Sky Prison, Rank: 8
+    Name: Number F0: Utopic Future Slash, Rank: 0
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+Target: Number 106 monster Options: 15  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 97: Draglubion, Rank: 8
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 94: Crystalzero, Rank: 5
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 88: Gimmick Puppet of Leo, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 82: Heartlandraco, Rank: 4
+  Option 5:
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 60: Dugares the Timeless, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 49: Fortune Tune, Rank: 3
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 45: Crumble Logos the Prophet of Demolition, Rank: 2
+  Option 9:
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+  Option 10:
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 40: Gimmick Puppet of Strings, Rank: 8
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number 46: Dragluon, Rank: 8
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 39: Utopia Roots, Rank: 1
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+  Option 13:
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 38: Hope Harbinger Dragon Titanic Galaxy, Rank: 8
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+  Option 14:
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number 39: Utopia Beyond, Rank: 6
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number C32: Shark Drake Veiss, Rank: 4
+  Option 15:
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number 61: Volcasaurus, Rank: 5
+    Name: Number F0: Utopic Future, Rank: 0
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+Target: Number 107 monster Options: 14  Option 1:
+    Name: Number 1: Numeron Gate Ekam, Rank: 1
+    Name: Number 3: Cicada King, Rank: 3
+    Name: Number 4: Stealth Kragen, Rank: 4
+    Name: Number 99: Utopia Dragonar, Rank: 12
+  Option 2:
+    Name: Number 2: Numeron Gate Dve, Rank: 1
+    Name: Number 5: Doom Chimera Dragon, Rank: 5
+    Name: Number 7: Lucky Straight, Rank: 7
+    Name: Number 93: Utopia Kaiser, Rank: 12
+  Option 3:
+    Name: Number 3: Numeron Gate Trini, Rank: 1
+    Name: Number 6: Chronomaly Atlandis, Rank: 6
+    Name: Number 8: Heraldic King Genom-Heritage, Rank: 4
+    Name: Number 90: Galaxy-Eyes Photon Lord, Rank: 8
+  Option 4:
+    Name: Number 4: Numeron Gate Catvari, Rank: 1
+    Name: Number 9: Dyson Sphere, Rank: 9
+    Name: Number 10: Illumiknight, Rank: 4
+    Name: Number 84: Pain Gainer, Rank: 11
+  Option 5:
+    Name: Number 11: Big Eye, Rank: 7
+    Name: Number 12: Crimson Shadow Armor Ninja, Rank: 5
+    Name: Number 13: Embodiment of Crime, Rank: 1
+    Name: Number 71: Rebarian Shark, Rank: 3
+  Option 6:
+    Name: Number 14: Greedy Sarameya, Rank: 5
+    Name: Number 15: Gimmick Puppet Giant Grinder, Rank: 8
+    Name: Number 20: Giga-Brilliant, Rank: 3
+    Name: Number 58: Burner Visor, Rank: 4
+  Option 7:
+    Name: Number 16: Shock Master, Rank: 4
+    Name: Number 17: Leviathan Dragon, Rank: 3
+    Name: Number 21: Frozen Lady Justice, Rank: 6
+    Name: Number 53: Heart-eartH, Rank: 5
+  Option 8:
+    Name: Number 18: Heraldry Patriarch, Rank: 4
+    Name: Number 19: Freezadon, Rank: 5
+    Name: Number 22: Zombiestein, Rank: 8
+    Name: Number 48: Shadow Lich, Rank: 3
+  Option 9:
+    Name: Number 23: Lancelot, Dark Knight of the Underworld, Rank: 8
+    Name: Number 24: Dragulas the Vampiric Dragon, Rank: 6
+    Name: Number 27: Dreadnought Dreadnoid, Rank: 4
+    Name: Number 33: Chronomaly Machu Mech, Rank: 5
+  Option 10:
+    Name: Number 25: Force Focus, Rank: 6
+    Name: Number 26: Spaceway Octobypass, Rank: 3
+    Name: Number 41: Bagooska the Terribly Tired Tapir, Rank: 4
+    Name: Number C15: Gimmick Puppet Giant Hunter, Rank: 9
+  Option 11:
+    Name: Number 28: Titanic Moth, Rank: 7
+    Name: Number 29: Mannequin Cat, Rank: 2
+    Name: Number F0: Utopic Draco Future, Rank: 0
+    Name: Number 50: Blackship of Corn, Rank: 4
+  Option 12:
+    Name: Number 30: Acid Golem of Destruction, Rank: 3
+    Name: Number 31: Embodiment of Punishment, Rank: 1
+    Name: Number 37: Hope Woven Dragon Spider Shark, Rank: 4
+    Name: Number C9: Chaos Dyson Sphere, Rank: 10
+  Option 13:
+    Name: Number 32: Shark Drake, Rank: 4
+    Name: Number 34: Terror-Byte, Rank: 3
+    Name: Number 35: Ravenous Tarantula, Rank: 10
+    Name: Number C6: Chronomaly Chaos Atlandis, Rank: 7
+  Option 14:
+    Name: Number 36: Chronomaly Chateau Huyuk, Rank: 4
+    Name: Number C1: Numeron Chaos Gate Sunya, Rank: 2
+    Name: Number C5: Chaos Chimera Dragon, Rank: 6
+    Name: Number C65: King Overfiend, Rank: 3
+Target: Number 1000 monster Options: 0
