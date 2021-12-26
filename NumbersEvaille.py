@@ -145,7 +145,6 @@ def getTarget(deck):
 	print("WARNING: Processing all valid combinations for all numbers will take a while(~30 min for me.)")
 	
 	target = input("Input a target or selection of target to summon with Numbers Evaille.")
-
 	if target:
 		if "," not in target and "-" not in target:
 			target = int(target)
@@ -174,7 +173,7 @@ def saveCombos(comboDict):
 	file = open("C:\\Users\\Chris\\OneDrive\\Documents\\Programming\\Python\\YGO Numbers Evaille\\Combos.txt", "w")
 	counter = 1
 	for key in comboDict:
-		file.write("Target: Number {} monster Options: {}".format(key,len(comboDict[key])))
+		file.write("Target: Number {} monster Options: {}\n".format(key,len(comboDict[key])))
 		if len(comboDict) != 0:
 			for combo in comboDict[key]:
 				file.write("  Option {}:\n".format(counter))
@@ -197,7 +196,7 @@ def main():
 		for number in target:
 			comboDict, iterations = Evaille(number, deck, comboDict, iterations)
 			totalIterations = iterations + totalIterations
-	print("ctrl + f Target: x with x being the target for easier sorting")
+	print("ctrl + f Target: Number x with x being the target for easier sorting")
 	print("Iterations: {}".format(totalIterations))
 	for key in comboDict:
 		counter = 1
@@ -210,6 +209,6 @@ def main():
 				counter = counter + 1	
 		else:
 			print("There are no options to summon a Number: {} monster. [Num:{}]".format(key,key))
-	# saveCombos(comboDict)
+	saveCombos(comboDict)
 
 main()
