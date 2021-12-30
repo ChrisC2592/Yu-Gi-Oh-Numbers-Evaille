@@ -8,7 +8,11 @@ class Number():
 	def __init__(self, name, rank):
 		self.name = name
 		self.no = self.getNo()
-		self.rank = rank
+		self.rank = self.getRank(rank)
+	def getRank(self, rank):
+		if self.name == "Number F0: Utopic Draco Future" or self.name == "Number F0: Utopic Future" or self.name == "Number F0: Utopic Future Slash" or self.name == "Number S0: Utopic ZEXAL":
+			rank = 1
+		return rank
 	def getNo(self):
 		no = self.name.split(":")[0].split(" ")[1]
 		i = 0
@@ -16,6 +20,8 @@ class Number():
 			i = i + 1
 		if no[i:].isnumeric() == True:
 			no = int(no[i:])
+		elif self.name == "Ultimate Leo Utopia Ray" or self.name == "Ultimate Dragonic Utopia Ray":
+			no = 39
 		else:
 			no = "Number does not have a numeric value."
 		return no
@@ -29,7 +35,7 @@ class Deck():
 		self.names = self.listName()
 		self.no = list(set(self.listNo()))
 		self.ranks = self.listRank()
-		self.sranks = list(set(self.ranks))
+		self.sranks = list(set(self.ranks))#Limited use needs to be updated with the others
 	def show(self):
 		for c in self.deck:
 			c.show()
@@ -169,19 +175,32 @@ def getTarget(deck):
 def addCombos(combo, comboDict, target):
 	comboDict[target] = combo
 	return comboDict
-def saveCombos(comboDict):
+def saveCombos(fcombo):
 	file = open("C:\\Users\\Chris\\OneDrive\\Documents\\Programming\\Python\\YGO Numbers Evaille\\Combos.txt", "w")
-	counter = 1
-	for key in comboDict:
-		file.write("Target: Number {} monster Options: {}\n".format(key,len(comboDict[key])))
-		if len(comboDict) != 0:
-			for combo in comboDict[key]:
-				file.write("  Option {}:\n".format(counter))
-				counter = counter + 1
-				for card in combo.deck:
-					file.write("    Name: {}, Rank: {}\n".format(card.name, card.rank))
-			counter = 1
+	for i in fcombo:
+		file.write("{}\n".format(i))
+		
 	file.close()
+	return
+def formatCombos(comboDict, totalIterations):
+	fcombo = []
+	fcombo.append("ctrl + f \"Target: Number X\" with X being the target for easier sorting")
+	fcombo.append("Iterations: {}".format(totalIterations))
+	for key in comboDict:
+		counter = 1
+		if len(comboDict[key]) != 0:
+			fcombo.append("Target: Number {} monster Options: {}".format(key,len(comboDict[key])))
+			for combo in comboDict[key]:
+				fcombo.append("  Option {}:".format(counter))
+				for card in combo.deck:
+					fcombo.append("    Name: {} Rank: {}".format(card.name, card.rank))
+				counter = counter + 1	
+		else:
+			fcombo.append("There are no options to summon a Number: {} monster. [Num:{}]".format(key,key))
+	return fcombo
+def printCombos(fcombo):
+	for i in fcombo:
+		print(i)
 	return
 def main():
 	filename = "numbers.csv"
@@ -196,19 +215,13 @@ def main():
 		for number in target:
 			comboDict, iterations = Evaille(number, deck, comboDict, iterations)
 			totalIterations = iterations + totalIterations
-	print("ctrl + f Target: Number x with x being the target for easier sorting")
-	print("Iterations: {}".format(totalIterations))
-	for key in comboDict:
-		counter = 1
-		if len(comboDict[key]) != 0:
-			print("Target: Number {} monster Options: {}".format(key,len(comboDict[key])))
-			for combo in comboDict[key]:
-				print("  Option {}:".format(counter))
-				for card in combo.deck:
-					print("    Name: {} Rank: {}".format(card.name, card.rank))
-				counter = counter + 1	
-		else:
-			print("There are no options to summon a Number: {} monster. [Num:{}]".format(key,key))
-	saveCombos(comboDict)
+
+	formattedCombos = formatCombos(comboDict, totalIterations)
+	printCombos(formattedCombos)
+	saveCombos(formattedCombos)
+	# deck = deck.less(39)
+	# test = sorted(deck.deck, key=lambda card: card.no)
+	# test = Deck(test)
+	# test.show()
 
 main()
