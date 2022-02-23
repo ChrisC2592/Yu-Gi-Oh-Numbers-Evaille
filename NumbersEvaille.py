@@ -32,44 +32,71 @@ class Deck():
 	def __init__(self, deck = []):
 		self.deck = deck
 		self.no, self.ranks, self.names = [], [], []
-		self.names = self.listName()
-		self.no = list(set(self.listNo()))
-		self.ranks = self.listRank()
-		self.sranks = list(set(self.ranks))#Limited use needs to be updated with the others
+		self.listNames()
+		self.listNo()
+		self.listRanks()
+		self.listUniqueRanks()
 	def show(self):
 		for c in self.deck:
 			c.show()
+	def listNames(self):
+		for c in self.deck:
+			self.names.append(c.name)
+		return self
 	def listNo(self):
 		for card in self.deck:
 			self.no.append(card.no)
-		return self.no
-	def listRank(self):
+		self.no = list(set(self.no))
+		return self
+	def listRanks(self):
 		for c in self.deck:
 			self.ranks.append(c.rank)
-		return self.ranks
-	def listName(self):
-		for c in self.deck:
-			self.names.append(c.name)
-		return self.names
+		return self
+	def listUniqueRanks(self):
+		self.sranks = list(set(self.ranks))
+		return self
 	def addCard(self, c):
 		self.deck.append(c)
 		self.update()
 		return self
 	def removeCard(self, card):
-		self.deck.pop(self.deck.index(card))
+		self.deck.pop(self.deck.index(card))#may need fixed to pass removed card to another thing
 		self.update()
 		return self
 	def update(self):
-		self.listName()
+		self.listNames()
 		self.listNo()
-		self.listRank()
+		self.listRanks()
+		self.listUniqueRanks()
+		return self
+	def noSort(self, bool=True):
+		self.deck = sorted(self.deck, key = lambda card: card.no, reverse = bool)
+		self.update()
 		return self
 	def less(self, num):
 		lst = []
 		for n in self.deck:
-			if n.no < num:
+			if n.no <= num:
 				lst.append(n)
 		return Deck(lst)
+	def limit(self, cards, target):
+		if cards.sum() <= target:
+			self = self.less(target-cards.sum())
+			self.update()
+			self.excludeRank(cards)
+		else:
+			self.deck = []
+		self.noSort()
+		self.update()
+		return Deck(self.deck)
+	def excludeRank(self, cards):
+		tmp = []
+		for card in self.deck:
+			if card.rank not in cards.sranks:
+				tmp.append(card)
+		self.deck = tmp
+		self.update()
+		return self
 	def sum(self):
 		sumNum = 0
 		for card in self.deck:
@@ -111,27 +138,6 @@ def evalEvaille(target, deck, validCombos, i):
 						if len(tmp.sranks) == 4 and tmp.sum() == target and notDuplicate(validCombos,tmp):
 							validCombos.append(tmp)	
 	return validCombos, deck, i
-def dumbEvaille(target, deck):
-	combo = []
-	tmp = []
-	deck = deck.less(target)
-	i = 0
-	for c1 in deck.deck:
-		i=i+1
-		for c2 in deck.deck:
-			i=i+1
-			for c3 in deck.deck:
-				i=i+1
-				for c4 in deck.deck:
-					i=i+1
-					tmp = Deck([c1,c2,c3,c4])
-					sumNum = int()
-					for element in tmp.deck:
-						sumNum = sumNum + element.no
-					if len(tmp.sranks) == 4 and sumNum == target:
-						if notDuplicate(combo, tmp):
-							combo.append(tmp)
-	return combo,i
 def notDuplicate(comb, deck):
 	booLst = []
 	bol = True
@@ -145,32 +151,34 @@ def notDuplicate(comb, deck):
 	
 	return bol
 def getTarget(deck):
-	print("You may search multipe number at a time by seperating them with a \",\"")
+		print("You may search multipe number at a time by seperating them with a \",\"")
 	print("or \"-\" for a range")
 	print("If left blank will return all valid combinations for all numbers.")
 	print("WARNING: Processing all valid combinations for all numbers will take a while(~30 min for me.)")
 	
-	target = input("Input a target or selection of target to summon with Numbers Evaille.")
-	if target:
-		if "," not in target and "-" not in target:
-			target = int(target)
-		if "," in str(target):
-			target = target.split(",")
-			tmp = []
-			for element in target:
-				tmp.append(int(element))
-			target = tmp
-		elif "-" in str(target):
-			target = target.split("-")
-			if len(target) == 2:
-				start, stop = target[0], target[1]
-				target = []
+	target = []
+	
+	tmpInput = input("Input a target or selection of target to summon with Numbers Evaille.")
+	if tmpInput:
+		if "," not in tmpInput and "-" not in tmpInput:
+			target.append(int(tmpInput))
+		if "," in str(tmpInput):
+			tmpInput = tmpInput.split(",")
+			#tmp = []
+			for element in tmpInput:
+				#tmp.append(int(element))
+				target.append(int(element))
+			#target = tmp
+		elif "-" in str(tmpInput):
+			tmpInput = tmpInput.split("-")
+			if len(tmpInput) == 2:
+				start, stop = tmpInput[0], tmpInput[1]
 				for x in range(int(start), int(stop)+1):
 					target.append(x)
 			else:
 				print("Error 2: range wronge")
 	else:
-		target = deck.no	
+		target = deck.no#May make this a method- annoying
 	return target
 def addCombos(combo, comboDict, target):
 	comboDict[target] = combo
@@ -209,19 +217,11 @@ def main():
 	
 	iterations, totalIterations, comboDict = 0, 0, {}
 	target = getTarget(deck)
-	if type(target) != type(list()):
-		comboDict, totalIterations = Evaille(target, deck, comboDict, iterations)
-	elif type(target) == type(list()):
-		for number in target:
-			comboDict, iterations = Evaille(number, deck, comboDict, iterations)
-			totalIterations = iterations + totalIterations
+	for number in target:
+		comboDict, iterations = Evaille(number, deck, comboDict, iterations)
+		totalIterations = iterations + totalIterations
 
 	formattedCombos = formatCombos(comboDict, totalIterations)
 	printCombos(formattedCombos)
 	saveCombos(formattedCombos)
-	# deck = deck.less(39)
-	# test = sorted(deck.deck, key=lambda card: card.no)
-	# test = Deck(test)
-	# test.show()
-
 main()
