@@ -151,7 +151,7 @@ def notDuplicate(comb, deck):
 	
 	return bol
 def getTarget(deck):
-		print("You may search multipe number at a time by seperating them with a \",\"")
+	print("You may search multipe number at a time by seperating them with a \",\"")
 	print("or \"-\" for a range")
 	print("If left blank will return all valid combinations for all numbers.")
 	print("WARNING: Processing all valid combinations for all numbers will take a while(~30 min for me.)")
